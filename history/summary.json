@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 604,
-    "timeWeek": 604,
-    "timeMonth": 604,
-    "timeYear": 604,
+    "time": 628,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "DUCKNODE",
-    "url": "https://s2.duck2go.top",
-    "icon": "https://icons.duckduckgo.com/ip3/s2.duck2go.top.ico",
-    "slug": "ducknode",
-    "status": "down",
-    "uptime": "7.61%",
-    "uptimeDay": "7.61%",
-    "uptimeWeek": "7.61%",
-    "uptimeMonth": "7.61%",
-    "uptimeYear": "7.61%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-05-13": 6
-    }
   }
 ]
